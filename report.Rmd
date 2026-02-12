@@ -1,0 +1,115 @@
+---
+title: "Management Strategy Evaluation for ..."
+author: ""
+date: "`r Sys.Date()`"
+output:
+  bookdown::pdf_document2:
+    toc: true
+  bookdown::html_document2:
+    toc: true
+tags:
+abstract: 
+license:
+---
+
+# Executive Summary
+
+# Introduction
+
+## Species and Stock Overview
+
+- FIGURE: map of stock distribution
+
+### Commercial exploitation
+
+- FIGURE: map of catch areas
+
+- FIGURE: time-series of catch
+
+## Decisions on management objectives
+
+## Development and engagement process
+
+# Operating Models (OMs)
+
+## Uncertainties
+
+## Conditioning
+
+## Data
+
+### Suitability of indices
+
+## Model Sets
+
+### Reference case
+
+### Reference set
+
+### Robustness set
+
+### Sensitivity runs
+
+## Robustness tests
+
+## Future Projections
+
+# Simulation framework
+
+## Performance statistics
+
+### Stock Status Metrics
+
+### Yield and Stability Metrics
+
+### Risk and Closure Metrics
+
+# Candidate Management Procedures (MPs)
+
+## Estimation Methods
+
+### Model-based
+
+### Empirical approaches
+
+## Harvest Control Rules
+
+### TAC change limits
+
+## Implementation System
+
+### Banking and borrowing
+
+## Experimental Setup
+
+# Results
+
+## Initial exploration of candidate MPs
+
+### Performance
+
+### Trade-Off
+
+### Performance
+
+### Time-Series
+
+### Frequency of limits reached
+
+## Robustness
+
+# Discussion
+
+## 6.1 Implications for Management
+
+## 6.2 Limitations
+
+## 6.3 Recommendations
+
+# References
+
+# (APPENDIX) Appendix {-} 
+
+## Appendix A: Operating model
+
+- Equations
